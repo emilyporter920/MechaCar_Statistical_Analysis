@@ -15,7 +15,7 @@
 </p>
 
 ## Summary Statistics on Suspension Coils
-* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The variance of the suspension coils overall is 62.3 psi. Lot 1 has a variance of 0.98 psi, Lot 2 has a variance of 7.47 psi, and Lot 3 has a variance of 170.29 psi. Lot 1 and Lot 2 are within their respected limits, however, Lot 3 is out of the design specifications
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The variance of the suspension coils overall is 62.3 psi. Lot 1 has a variance of 0.98 psi, Lot 2 has a variance of 7.47 psi, and Lot 3 has a variance of 170.29 psi. Lot 1 and Lot 2 are within their respected limits, however, Lot 3 is out of the design specifications.
 
 <p align="center">
     <img src="images/totalsummary.png">
@@ -26,7 +26,7 @@
 </p>
 
 ## T-Tests on Suspension Coils
-* The p-value of all the lots is 0.45 so we cannot reject the null hypothesis
+* The p-value of all the lots is 0.45 so we cannot reject the null hypothesis.
 
 <p align="center">
     <img src="images/alllotttest.png">
