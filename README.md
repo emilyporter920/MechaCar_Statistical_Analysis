@@ -26,6 +26,12 @@
 </p>
 
 ## T-Tests on Suspension Coils
+* The p-value of all the lots is 0.45 so we cannot reject the null hypothesis
+
+<p align="center">
+    <img src="images/alllotttest.png">
+</p>
+
 * The p-value of Lot 1 is 1.0 so we cannot reject the null hypothesis.
 
 <p align="center">
